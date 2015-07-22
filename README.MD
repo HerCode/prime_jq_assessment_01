@@ -13,3 +13,7 @@ The second button in the div should have the text "Remove". When clicking it, it
 
 Do not worry about altering the button click count based on the amount of divs you remove. No other styling of 'extras' are needed for this challenge, in fact, please don't add any additional work. Once you are complete, check your work into a new repo on your GitHub account with the repo name of 'jquery_assessment'. 
 
+If there are any things in this assessment that you cannot complete, that is fine! Just complete what you can. This is all about knowing how to help you best.
+
+Please no talking. When you are complete, feel free to take a break outside of the classroom.
+Good luck! 
