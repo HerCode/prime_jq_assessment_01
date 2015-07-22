@@ -15,5 +15,7 @@ Do not worry about altering the button click count based on the amount of divs y
 
 If there are any things in this assessment that you cannot complete, that is fine! Just complete what you can. This is all about knowing how to help you best.
 
+You need not check this repo with this readme out and mess with git. Go ahead and just start a new repo, with new files and work out of that.
+
 Please no talking. When you are complete, feel free to take a break outside of the classroom.
 Good luck! 
