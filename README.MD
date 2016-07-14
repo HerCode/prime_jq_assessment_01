@@ -1,7 +1,6 @@
 # jQuery Assessment 
 
-Hello Primates! (I know I know, lame, its what Nerdery calls us. Roll with it)
-Welcome to your first assessment! You all worked really hard to get to this point and I celebrate you for making it here. This assessment is all about getting a snapshot of where you at, and what you understand. 
+Hello Prime Students! Welcome to your first assessment! You all worked really hard to get to this point and I celebrate you for making it here. This assessment is all about getting a snapshot of where you at, and what you understand. 
 
 For this assessment, you will be creating a simple application. When the page loads, it should have a button already on the DOM that reads "Click me". When that button is clicked, it should create a new div that contains some text, and two buttons. It should have a data attribute called 'data-button-toggle' and set that value equal to 1. In a CSS file, target a class that changes the background color of the div to green.
 
